@@ -1,4 +1,4 @@
-# k&r-exercises
+# knr-exercises
 
 Exercises from "The C Programming Language" (K&R, 2nd edition). 
 
